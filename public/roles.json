@@ -1,0 +1,267 @@
+{
+  "Bingo": {
+    "core": [
+      { "name": "Bingo Crew Ping", "id": "1313644508839415878" },
+      { "name": "Games Ping", "id": "1263571625870229556" },
+      { "name": "Giveaway Ping", "id": "1263597186847866952" }
+    ],
+    "optional": [
+      { "name": "5 Star Game", "id": "1276835659008573472" },
+      { "name": "4 Star Game", "id": "1314879448939626516" },
+      { "name": "Late Night Gamers", "id": "1276835707620556861" },
+      { "name": "Taylor's Favorites", "id": "1300041432828084264" },
+      { "name": "SnoreBabies", "id": "1296589584049635409" },
+      { "name": "Rip's Rumblers", "id": "1293290191766949909" },
+      { "name": "Twisted Tales", "id": "1284609295127679090" },
+      { "name": "Coco Puffs", "id": "1314654558500294716" },
+      { "name": "Nik's Cosmic Crew", "id": "1357184490858090567" },
+      { "name": "Game Time w/ BigBoy", "id": "1335310794728018070" },
+      { "name": "Maniac Crew", "id": "1332783619617325187" },
+      { "name": "GoodNuggets", "id": "1361221350714376274" },
+      { "name": "18+ Game", "id": "1276835887719776277" }
+    ]
+  },
+  "Dice Dare": {
+    "core": [
+      { "name": "Dice Dare Ping", "id": "1270428300661096630" },
+      { "name": "Larry Games Ping", "id": "1316207634495442944" },
+      { "name": "Games Ping", "id": "1263571625870229556" },
+      { "name": "Giveaway Ping", "id": "1263597186847866952" }
+    ],
+    "optional": [
+      { "name": "5 Star Game", "id": "1276835659008573472" },
+      { "name": "4 Star Game", "id": "1314879448939626516" },
+      { "name": "Late Night Gamers", "id": "1276835707620556861" },
+      { "name": "Taylor's Favorites", "id": "1300041432828084264" },
+      { "name": "SnoreBabies", "id": "1296589584049635409" },
+      { "name": "Rip's Rumblers", "id": "1293290191766949909" },
+      { "name": "Twisted Tales", "id": "1284609295127679090" },
+      { "name": "Coco Puffs", "id": "1314654558500294716" },
+      { "name": "Nik's Cosmic Crew", "id": "1357184490858090567" },
+      { "name": "Game Time w/ BigBoy", "id": "1335310794728018070" },
+      { "name": "Maniac Crew", "id": "1332783619617325187" },
+      { "name": "GoodNuggets", "id": "1361221350714376274" },
+      { "name": "18+ Game", "id": "1276835887719776277" }
+    ]
+  },
+  "Rebel Wars": {
+    "core": [
+      { "name": "Rebel Wars Ping", "id": "1315173880616194070" },
+      { "name": "Games Ping", "id": "1263571625870229556" },
+      { "name": "Giveaway Ping", "id": "1263597186847866952" }
+    ],
+    "optional": [
+      { "name": "5 Star Game", "id": "1276835659008573472" },
+      { "name": "4 Star Game", "id": "1314879448939626516" },
+      { "name": "Late Night Gamers", "id": "1276835707620556861" },
+      { "name": "Taylor's Favorites", "id": "1300041432828084264" },
+      { "name": "SnoreBabies", "id": "1296589584049635409" },
+      { "name": "Rip's Rumblers", "id": "1293290191766949909" },
+      { "name": "Twisted Tales", "id": "1284609295127679090" },
+      { "name": "Coco Puffs", "id": "1314654558500294716" },
+      { "name": "Nik's Cosmic Crew", "id": "1357184490858090567" },
+      { "name": "Game Time w/ BigBoy", "id": "1335310794728018070" },
+      { "name": "Maniac Crew", "id": "1332783619617325187" },
+      { "name": "GoodNuggets", "id": "1361221350714376274" },
+      { "name": "18+ Game", "id": "1276835887719776277" }
+    ]
+  },
+  "Rollout": {
+    "core": [
+      { "name": "Rollout Ping", "id": "1263571647160516660" },
+      { "name": "Games Ping", "id": "1263571625870229556" },
+      { "name": "Giveaway Ping", "id": "1263597186847866952" }
+    ],
+    "optional": [
+      { "name": "5 Star Game", "id": "1276835659008573472" },
+      { "name": "4 Star Game", "id": "1314879448939626516" },
+      { "name": "Late Night Gamers", "id": "1276835707620556861" },
+      { "name": "Taylor's Favorites", "id": "1300041432828084264" },
+      { "name": "SnoreBabies", "id": "1296589584049635409" },
+      { "name": "Rip's Rumblers", "id": "1293290191766949909" },
+      { "name": "Twisted Tales", "id": "1284609295127679090" },
+      { "name": "Coco Puffs", "id": "1314654558500294716" },
+      { "name": "Nik's Cosmic Crew", "id": "1357184490858090567" },
+      { "name": "Game Time w/ BigBoy", "id": "1335310794728018070" },
+      { "name": "Maniac Crew", "id": "1332783619617325187" },
+      { "name": "GoodNuggets", "id": "1361221350714376274" },
+      { "name": "18+ Game", "id": "1276835887719776277" }
+    ]
+  },
+  "Tea Games": {
+    "core": [
+      { "name": "Tea Sippers", "id": "1263571641703731302" },
+      { "name": "Games Ping", "id": "1263571625870229556" },
+      { "name": "Giveaway Ping", "id": "1263597186847866952" }
+    ],
+    "optional": [
+      { "name": "5 Star Game", "id": "1276835659008573472" },
+      { "name": "4 Star Game", "id": "1314879448939626516" },
+      { "name": "Late Night Gamers", "id": "1276835707620556861" },
+      { "name": "Taylor's Favorites", "id": "1300041432828084264" },
+      { "name": "SnoreBabies", "id": "1296589584049635409" },
+      { "name": "Rip's Rumblers", "id": "1293290191766949909" },
+      { "name": "Twisted Tales", "id": "1284609295127679090" },
+      { "name": "Coco Puffs", "id": "1314654558500294716" },
+      { "name": "Nik's Cosmic Crew", "id": "1357184490858090567" },
+      { "name": "Game Time w/ BigBoy", "id": "1335310794728018070" },
+      { "name": "Maniac Crew", "id": "1332783619617325187" },
+      { "name": "GoodNuggets", "id": "1361221350714376274" },
+      { "name": "18+ Game", "id": "1276835887719776277" }
+    ]
+  },
+  "Hunger Games": {
+    "core": [
+      { "name": "Hunger Games Ping", "id": "1263571654408409138" },
+      { "name": "Games Ping", "id": "1263571625870229556" },
+      { "name": "Giveaway Ping", "id": "1263597186847866952" }
+    ],
+    "optional": [
+      { "name": "5 Star Game", "id": "1276835659008573472" },
+      { "name": "4 Star Game", "id": "1314879448939626516" },
+      { "name": "Late Night Gamers", "id": "1276835707620556861" },
+      { "name": "Taylor's Favorites", "id": "1300041432828084264" },
+      { "name": "SnoreBabies", "id": "1296589584049635409" },
+      { "name": "Rip's Rumblers", "id": "1293290191766949909" },
+      { "name": "Twisted Tales", "id": "1284609295127679090" },
+      { "name": "Coco Puffs", "id": "1314654558500294716" },
+      { "name": "Nik's Cosmic Crew", "id": "1357184490858090567" },
+      { "name": "Game Time w/ BigBoy", "id": "1335310794728018070" },
+      { "name": "Maniac Crew", "id": "1332783619617325187" },
+      { "name": "GoodNuggets", "id": "1361221350714376274" },
+      { "name": "18+ Game", "id": "1276835887719776277" }
+    ]
+  },
+  "Hangry": {
+    "core": [
+      { "name": "Hangry Games Ping", "id": "1263571627682304073" },
+      { "name": "Games Ping", "id": "1263571625870229556" },
+      { "name": "Giveaway Ping", "id": "1263597186847866952" }
+    ],
+    "optional": [
+      { "name": "5 Star Game", "id": "1276835659008573472" },
+      { "name": "4 Star Game", "id": "1314879448939626516" },
+      { "name": "Late Night Gamers", "id": "1276835707620556861" },
+      { "name": "Taylor's Favorites", "id": "1300041432828084264" },
+      { "name": "SnoreBabies", "id": "1296589584049635409" },
+      { "name": "Rip's Rumblers", "id": "1293290191766949909" },
+      { "name": "Twisted Tales", "id": "1284609295127679090" },
+      { "name": "Coco Puffs", "id": "1314654558500294716" },
+      { "name": "Nik's Cosmic Crew", "id": "1357184490858090567" },
+      { "name": "Game Time w/ BigBoy", "id": "1335310794728018070" },
+      { "name": "Maniac Crew", "id": "1332783619617325187" },
+      { "name": "GoodNuggets", "id": "1361221350714376274" },
+      { "name": "18+ Game", "id": "1276835887719776277" }
+    ]
+  },
+  "Uno": {
+    "core": [
+      { "name": "Uno Ping", "id": "1263571660792004658" },
+      { "name": "Games Ping", "id": "1263571625870229556" },
+      { "name": "Giveaway Ping", "id": "1263597186847866952" }
+    ],
+    "optional": [
+      { "name": "5 Star Game", "id": "1276835659008573472" },
+      { "name": "4 Star Game", "id": "1314879448939626516" },
+      { "name": "Late Night Gamers", "id": "1276835707620556861" },
+      { "name": "Taylor's Favorites", "id": "1300041432828084264" },
+      { "name": "SnoreBabies", "id": "1296589584049635409" },
+      { "name": "Rip's Rumblers", "id": "1293290191766949909" },
+      { "name": "Twisted Tales", "id": "1284609295127679090" },
+      { "name": "Coco Puffs", "id": "1314654558500294716" },
+      { "name": "Nik's Cosmic Crew", "id": "1357184490858090567" },
+      { "name": "Game Time w/ BigBoy", "id": "1335310794728018070" },
+      { "name": "Maniac Crew", "id": "1332783619617325187" },
+      { "name": "GoodNuggets", "id": "1361221350714376274" },
+      { "name": "18+ Game", "id": "1276835887719776277" }
+    ]
+  },
+  "Survey Says": {
+    "core": [
+      { "name": "Survey Says Ping", "id": "1263571658573086803" },
+      { "name": "Games Ping", "id": "1263571625870229556" },
+      { "name": "Giveaway Ping", "id": "1263597186847866952" }
+    ],
+    "optional": [
+      { "name": "5 Star Game", "id": "1276835659008573472" },
+      { "name": "4 Star Game", "id": "1314879448939626516" },
+      { "name": "Late Night Gamers", "id": "1276835707620556861" },
+      { "name": "Taylor's Favorites", "id": "1300041432828084264" },
+      { "name": "SnoreBabies", "id": "1296589584049635409" },
+      { "name": "Rip's Rumblers", "id": "1293290191766949909" },
+      { "name": "Twisted Tales", "id": "1284609295127679090" },
+      { "name": "Coco Puffs", "id": "1314654558500294716" },
+      { "name": "Nik's Cosmic Crew", "id": "1357184490858090567" },
+      { "name": "Game Time w/ BigBoy", "id": "1335310794728018070" },
+      { "name": "Maniac Crew", "id": "1332783619617325187" },
+      { "name": "GoodNuggets", "id": "1361221350714376274" },
+      { "name": "18+ Game", "id": "1276835887719776277" }
+    ]
+  },
+  "Trivia": {
+    "core": [
+      { "name": "Trivia Ping", "id": "1263571657235370045" },
+      { "name": "Games Ping", "id": "1263571625870229556" },
+      { "name": "Giveaway Ping", "id": "1263597186847866952" }
+    ],
+    "optional": [
+      { "name": "5 Star Game", "id": "1276835659008573472" },
+      { "name": "4 Star Game", "id": "1314879448939626516" },
+      { "name": "Late Night Gamers", "id": "1276835707620556861" },
+      { "name": "Taylor's Favorites", "id": "1300041432828084264" },
+      { "name": "SnoreBabies", "id": "1296589584049635409" },
+      { "name": "Rip's Rumblers", "id": "1293290191766949909" },
+      { "name": "Twisted Tales", "id": "1284609295127679090" },
+      { "name": "Coco Puffs", "id": "1314654558500294716" },
+      { "name": "Nik's Cosmic Crew", "id": "1357184490858090567" },
+      { "name": "Game Time w/ BigBoy", "id": "1335310794728018070" },
+      { "name": "Maniac Crew", "id": "1332783619617325187" },
+      { "name": "GoodNuggets", "id": "1361221350714376274" },
+      { "name": "18+ Game", "id": "1276835887719776277" }
+    ]
+  },
+  "GTS": {
+    "core": [
+      { "name": "GTS Ping", "id": "1263571652696866979" },
+      { "name": "Games Ping", "id": "1263571625870229556" },
+      { "name": "Giveaway Ping", "id": "1263597186847866952" }
+    ],
+    "optional": [
+      { "name": "5 Star Game", "id": "1276835659008573472" },
+      { "name": "4 Star Game", "id": "1314879448939626516" },
+      { "name": "Late Night Gamers", "id": "1276835707620556861" },
+      { "name": "Taylor's Favorites", "id": "1300041432828084264" },
+      { "name": "SnoreBabies", "id": "1296589584049635409" },
+      { "name": "Rip's Rumblers", "id": "1293290191766949909" },
+      { "name": "Twisted Tales", "id": "1284609295127679090" },
+      { "name": "Coco Puffs", "id": "1314654558500294716" },
+      { "name": "Nik's Cosmic Crew", "id": "1357184490858090567" },
+      { "name": "Game Time w/ BigBoy", "id": "1335310794728018070" },
+      { "name": "Maniac Crew", "id": "1332783619617325187" },
+      { "name": "GoodNuggets", "id": "1361221350714376274" },
+      { "name": "18+ Game", "id": "1276835887719776277" }
+    ]
+  },
+  "Void Beta Game": {
+    "core": [
+      { "name": "Void Beta Ping", "id": "1348482784598953996" },
+      { "name": "Games Ping", "id": "1263571625870229556" },
+      { "name": "Giveaway Ping", "id": "1263597186847866952" }
+    ],
+    "optional": [
+      { "name": "5 Star Game", "id": "1276835659008573472" },
+      { "name": "4 Star Game", "id": "1314879448939626516" },
+      { "name": "Late Night Gamers", "id": "1276835707620556861" },
+      { "name": "Taylor's Favorites", "id": "1300041432828084264" },
+      { "name": "SnoreBabies", "id": "1296589584049635409" },
+      { "name": "Rip's Rumblers", "id": "1293290191766949909" },
+      { "name": "Twisted Tales", "id": "1284609295127679090" },
+      { "name": "Coco Puffs", "id": "1314654558500294716" },
+      { "name": "Nik's Cosmic Crew", "id": "1357184490858090567" },
+      { "name": "Game Time w/ BigBoy", "id": "1335310794728018070" },
+      { "name": "Maniac Crew", "id": "1332783619617325187" },
+      { "name": "GoodNuggets", "id": "1361221350714376274" },
+      { "name": "18+ Game", "id": "1276835887719776277" }
+    ]
+  }
+}
